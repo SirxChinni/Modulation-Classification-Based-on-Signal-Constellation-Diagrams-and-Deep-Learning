@@ -3,4 +3,7 @@ In this study, we use various signal constellation diagrams to classify signal m
 1. Constellation Diagram: A constellation diagram is a two-dimensional scatter diagram that shows how a signal is modulated by a digital modulation scheme. It displays the signal as a scatter diagram in the complex plane at symbol sampling instants, providing a binary image.
 2. Gray Image: A gray image provides the impact of multiple samples on a given pixel. The obtained image dataset from raw signal is then feed to a basic CNN model as input, the layers of the architecture is mentioned in the diagram Figure2.
 
+The obtained image dataset from raw signal is then feed to a basic CNN model as input. The layers of the architecture are mentioned in the below diagram :
+![image](https://github.com/SirxChinni/Modulation-Classification-Based-on-Signal-Constellation-Diagrams-and-Deep-Learning/assets/118927425/9fcecc78-7c0d-47e7-8428-615178c520ca)
+
 The implementation is done in Python using Theano/Keras with Google Colab.
